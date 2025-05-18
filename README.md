@@ -1,4 +1,5 @@
  GreenThumb AI
+
 GreenThumb AI is an intelligent plant care assistant that uses AI to monitor and analyze plant health through images and environmental data. It helps users optimize watering, lighting, and nutrient needs for their plants.
 
 ---
